@@ -141,7 +141,7 @@ Comprehensive PDF documentation detailing the mathematical foundations, methodol
 The projects leverage the modern Python data science ecosystem:
 - **Core**: `Python 3.8+`
 - **Data Manipulation**: `Pandas`, `NumPy`
-- **Machine Learning**: `Scikit-Learn`, `XGBoost`
+- **Machine Learning**: `Scikit-Learn`, `XGBoost`, `GradientBoost`, `RandomForest`, `DecisionTree`, `KMeans`, `PCA`, `SVM`, `KNeighboursClassifier`, `LogisticRegression`, `KNeighboursRegressor`, `Stacking`, `Bagging`
 - **Data Visualization**: `Matplotlib`, `Seaborn`
 - **Environment**: `Jupyter Notebook` / `JupyterLab`
 
