@@ -17,6 +17,7 @@
   - [4. Titanic Survival Prediction](#4-titanic-survival-prediction-classification)
   - [5. Hyperparameter Tuning (GridSearchCV)](#5-hyperparameter-tuning-gridsearchcv)
   - [6. Ensemble Learning Techniques](#6-ensemble-learning-techniques)
+  - [7. Clustering Techniques (Unsupervised Learning)](#7-clustering-techniques-unsupervised-learning)
 - [Documentation](#-documentation)
 - [Technologies & Libraries](#-technologies--libraries)
 - [Getting Started](#-getting-started)
@@ -36,6 +37,7 @@ ML Training/
 ├── Titanic_Survival_Prediction.ipynb # Passenger survival classification
 ├── GridSearchCV.ipynb             # Hyperparameter tuning tutorials
 ├── EnsembleLearning.ipynb         # Ensemble learning models (Random Forest, Boosting)
+├── Clustering.ipynb               # Unsupervised learning (K-Means, Hierarchical)
 ├── Credit Card Fraud Detection.pdf # Documentation & methodology for fraud detection
 ├── HPrice_Regression_Models.pdf   # Documentation & methodology for price prediction
 ├── README.md                      # Project documentation (You are here)
@@ -83,6 +85,12 @@ ML Training/
 - **Objective**: Implement and compare powerful ensemble methods for improved predictive accuracy and robustness.
 - **Concepts Covered**: Bagging (Random Forests) and Boosting (AdaBoost, Gradient Boosting, XGBoost).
 - **Techniques Used**: Combining multiple weak learners to form a strong learner, reducing variance and bias in complex datasets.
+
+### 7. Clustering Techniques (Unsupervised Learning)
+- **File**: [`Clustering.ipynb`](./Clustering.ipynb)
+- **Objective**: Discover inherent groupings and structures within unlabelled datasets.
+- **Concepts Covered**: K-Means clustering, Hierarchical clustering, and DBSCAN.
+- **Techniques Used**: Elbow method, Silhouette score evaluation, and centroid-based distance metrics.
 
 ## 📚 Documentation
 Comprehensive documentation detailing the methodologies, mathematical foundations, and business impact for these models is provided:
