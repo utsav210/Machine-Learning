@@ -15,6 +15,7 @@
   - [2. Housing Price Prediction](#2-housing-price-prediction-regression)
   - [3. Medical Insurance Cost Prediction](#3-medical-insurance-cost-prediction-regression)
   - [4. Titanic Survival Prediction](#4-titanic-survival-prediction-classification)
+  - [5. Hyperparameter Tuning (GridSearchCV)](#5-hyperparameter-tuning-gridsearchcv)
 - [Documentation](#-documentation)
 - [Technologies & Libraries](#-technologies--libraries)
 - [Getting Started](#-getting-started)
@@ -32,6 +33,7 @@ ML Training/
 ├── Housing_Price_Prediction.ipynb # Real estate pricing regression models
 ├── insurance.ipynb                # Medical insurance cost prediction
 ├── Titanic_Survival_Prediction.ipynb # Passenger survival classification
+├── GridSearchCV.ipynb             # Hyperparameter tuning tutorials
 ├── Credit Card Fraud Detection.pdf # Documentation & methodology for fraud detection
 ├── HPrice_Regression_Models.pdf   # Documentation & methodology for price prediction
 ├── README.md                      # Project documentation (You are here)
@@ -67,6 +69,12 @@ ML Training/
 - **Key Features**: Passenger class, age, sex, fare, and family size.
 - **Target Variable**: `Survived` (Binary: 0 for No, 1 for Yes)
 - **Techniques Used**: Missing value imputation, feature engineering, and binary classification algorithms.
+
+### 5. Hyperparameter Tuning (GridSearchCV)
+- **File**: [`GridSearchCV.ipynb`](./GridSearchCV.ipynb)
+- **Objective**: Demonstrate hyperparameter optimization using exhaustive grid search combined with cross-validation.
+- **Concepts Covered**: Grid search, parameter grids, K-Fold cross-validation, estimator tuning.
+- **Techniques Used**: Identifying optimal hyperparameters for ML algorithms to maximize model performance metrics.
 
 ## 📚 Documentation
 Comprehensive documentation detailing the methodologies, mathematical foundations, and business impact for these models is provided:
