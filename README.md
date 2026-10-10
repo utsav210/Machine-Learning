@@ -16,6 +16,7 @@
   - [3. Medical Insurance Cost Prediction](#3-medical-insurance-cost-prediction-regression)
   - [4. Titanic Survival Prediction](#4-titanic-survival-prediction-classification)
   - [5. Hyperparameter Tuning (GridSearchCV)](#5-hyperparameter-tuning-gridsearchcv)
+  - [6. Ensemble Learning Techniques](#6-ensemble-learning-techniques)
 - [Documentation](#-documentation)
 - [Technologies & Libraries](#-technologies--libraries)
 - [Getting Started](#-getting-started)
@@ -34,6 +35,7 @@ ML Training/
 ├── insurance.ipynb                # Medical insurance cost prediction
 ├── Titanic_Survival_Prediction.ipynb # Passenger survival classification
 ├── GridSearchCV.ipynb             # Hyperparameter tuning tutorials
+├── EnsembleLearning.ipynb         # Ensemble learning models (Random Forest, Boosting)
 ├── Credit Card Fraud Detection.pdf # Documentation & methodology for fraud detection
 ├── HPrice_Regression_Models.pdf   # Documentation & methodology for price prediction
 ├── README.md                      # Project documentation (You are here)
@@ -75,6 +77,12 @@ ML Training/
 - **Objective**: Demonstrate hyperparameter optimization using exhaustive grid search combined with cross-validation.
 - **Concepts Covered**: Grid search, parameter grids, K-Fold cross-validation, estimator tuning.
 - **Techniques Used**: Identifying optimal hyperparameters for ML algorithms to maximize model performance metrics.
+
+### 6. Ensemble Learning Techniques
+- **File**: [`EnsembleLearning.ipynb`](./EnsembleLearning.ipynb)
+- **Objective**: Implement and compare powerful ensemble methods for improved predictive accuracy and robustness.
+- **Concepts Covered**: Bagging (Random Forests) and Boosting (AdaBoost, Gradient Boosting, XGBoost).
+- **Techniques Used**: Combining multiple weak learners to form a strong learner, reducing variance and bias in complex datasets.
 
 ## 📚 Documentation
 Comprehensive documentation detailing the methodologies, mathematical foundations, and business impact for these models is provided:
