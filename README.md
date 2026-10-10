@@ -1,9 +1,9 @@
 # 🧠 Machine Learning Training Models
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-0.24%2B-green.svg)
-![License](https://img.shields.io/badge/License-MIT-purple.svg)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 > An enterprise-grade repository showcasing robust machine learning methodologies, focusing on predictive modeling for both classification and regression tasks. 
 
