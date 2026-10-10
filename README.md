@@ -14,6 +14,7 @@
   - [1. Credit Card Fraud Detection](#1-credit-card-fraud-detection-classification)
   - [2. Housing Price Prediction](#2-housing-price-prediction-regression)
   - [3. Medical Insurance Cost Prediction](#3-medical-insurance-cost-prediction-regression)
+  - [4. Titanic Survival Prediction](#4-titanic-survival-prediction-classification)
 - [Documentation](#-documentation)
 - [Technologies & Libraries](#-technologies--libraries)
 - [Getting Started](#-getting-started)
@@ -30,6 +31,7 @@ ML Training/
 ├── Classification_Model.ipynb     # Credit card fraud detection modeling
 ├── Housing_Price_Prediction.ipynb # Real estate pricing regression models
 ├── insurance.ipynb                # Medical insurance cost prediction
+├── Titanic_Survival_Prediction.ipynb # Passenger survival classification
 ├── Credit Card Fraud Detection.pdf # Documentation & methodology for fraud detection
 ├── HPrice_Regression_Models.pdf   # Documentation & methodology for price prediction
 ├── README.md                      # Project documentation (You are here)
@@ -58,6 +60,13 @@ ML Training/
 - **Key Features**: Age, BMI, smoking status, region, and number of dependents.
 - **Target Variable**: `charges` (Continuous)
 - **Techniques Used**: Categorical encoding, data normalization, and predictive modeling for health-related cost analysis.
+
+### 4. Titanic Survival Prediction (Classification)
+- **File**: [`Titanic_Survival_Prediction.ipynb`](./Titanic_Survival_Prediction.ipynb)
+- **Objective**: Predict the survival probability of passengers aboard the Titanic based on demographic and ticketing data.
+- **Key Features**: Passenger class, age, sex, fare, and family size.
+- **Target Variable**: `Survived` (Binary: 0 for No, 1 for Yes)
+- **Techniques Used**: Missing value imputation, feature engineering, and binary classification algorithms.
 
 ## 📚 Documentation
 Comprehensive documentation detailing the methodologies, mathematical foundations, and business impact for these models is provided:
