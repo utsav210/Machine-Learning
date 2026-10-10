@@ -18,6 +18,7 @@
   - [5. Hyperparameter Tuning (GridSearchCV)](#5-hyperparameter-tuning-gridsearchcv)
   - [6. Ensemble Learning Techniques](#6-ensemble-learning-techniques)
   - [7. Clustering Techniques (Unsupervised Learning)](#7-clustering-techniques-unsupervised-learning)
+  - [8. Dimensionality Reduction (PCA)](#8-dimensionality-reduction-pca)
 - [Documentation](#-documentation)
 - [Technologies & Libraries](#-technologies--libraries)
 - [Getting Started](#-getting-started)
@@ -38,6 +39,7 @@ ML Training/
 ├── GridSearchCV.ipynb             # Hyperparameter tuning tutorials
 ├── EnsembleLearning.ipynb         # Ensemble learning models (Random Forest, Boosting)
 ├── Clustering.ipynb               # Unsupervised learning (K-Means, Hierarchical)
+├── PCADimensionalityReduction.ipynb # Principal Component Analysis techniques
 ├── Credit Card Fraud Detection.pdf # Documentation & methodology for fraud detection
 ├── HPrice_Regression_Models.pdf   # Documentation & methodology for price prediction
 ├── README.md                      # Project documentation (You are here)
@@ -91,6 +93,12 @@ ML Training/
 - **Objective**: Discover inherent groupings and structures within unlabelled datasets.
 - **Concepts Covered**: K-Means clustering, Hierarchical clustering, and DBSCAN.
 - **Techniques Used**: Elbow method, Silhouette score evaluation, and centroid-based distance metrics.
+
+### 8. Dimensionality Reduction (PCA)
+- **File**: [`PCADimensionalityReduction.ipynb`](./PCADimensionalityReduction.ipynb)
+- **Objective**: Simplify complex datasets by reducing dimensions while retaining maximum variance.
+- **Concepts Covered**: Principal Component Analysis (PCA), eigenvalues/eigenvectors, and variance ratio.
+- **Techniques Used**: Feature extraction, noise reduction, and optimization for high-dimensional data processing.
 
 ## 📚 Documentation
 Comprehensive documentation detailing the methodologies, mathematical foundations, and business impact for these models is provided:
